@@ -1,0 +1,6 @@
+1,paine,casa,5,piata
+2,paste,fainoase,9,carbonara
+3,bere,blonda,3,heineken
+5,oua,casa,10,piata
+6,suc,cola,6,coca-cola
+4,pateu,vegetal,7,ardealul
